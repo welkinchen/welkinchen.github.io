@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on 诚如所思</title>
+    <title>markdown on 诚如所思</title>
     <link>http://chentao.org/tags/markdown/</link>
-    <description>Recent content in Markdown on 诚如所思</description>
+    <description>Recent content in markdown on 诚如所思</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hello@chentao.org (陈涛)</managingEditor>
     <webMaster>hello@chentao.org (陈涛)</webMaster>
