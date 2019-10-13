@@ -5,8 +5,8 @@
     <link>http://chentao.org/tags/math/</link>
     <description>Recent content in math on 诚如所思</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>hello@chentao.org (陈涛)</managingEditor>
-    <webMaster>hello@chentao.org (陈涛)</webMaster>
+    <managingEditor>hello@chentao.org (Chen Tao)</managingEditor>
+    <webMaster>hello@chentao.org (Chen Tao)</webMaster>
     <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://chentao.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>Math Sample</title>
       <link>http://chentao.org/post/2017-03-05-math-sample/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>hello@chentao.org (陈涛)</author>
+      <author>hello@chentao.org (Chen Tao)</author>
       <guid>http://chentao.org/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
 
