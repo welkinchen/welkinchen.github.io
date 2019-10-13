@@ -3,58 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chentao.org/post/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/tags/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/tags/concurrency/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/post/2018-06-13-concurrency/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/post/2017-03-20-photoswipe-gallery-sample/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/tags/example/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/tags/photoswipe/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://chentao.org/post/2017-03-07-bigimg-sample/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://chentao.org/post/</loc>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chentao.org/tags/</loc>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://chentao.org/tags/bigimg/</loc>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chentao.org/tags/example/</loc>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chentao.org/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -115,16 +93,6 @@
   <url>
     <loc>http://chentao.org/post/2015-01-15-pirates/</loc>
     <lastmod>2015-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/post/2015-01-04-first-post/</loc>
-    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chentao.org/post/2010-01-01-reborn/</loc>
-    <lastmod>2010-01-01T09:23:11+08:00</lastmod>
   </url>
   
   <url>
