@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 诚如所思</title>
-    <link>http://chentao.org/categories/</link>
+    <link>https://chentao.org/categories/</link>
     <description>Recent content in Categories on 诚如所思</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hello@chentao.org (Chen Tao)</managingEditor>
     <webMaster>hello@chentao.org (Chen Tao)</webMaster>
     
-	<atom:link href="http://chentao.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chentao.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
