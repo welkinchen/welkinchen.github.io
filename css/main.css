@@ -34,7 +34,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   font-weight: 800;
 }
 a {
@@ -42,7 +42,8 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  /*color: #0085a1;*/
+  color: #008AFF;
 }
 blockquote {
   color: #808080;
@@ -139,7 +140,7 @@ img {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
 }
 
 .navbar-custom .nav li a {
@@ -157,7 +158,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #008AFF;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -311,7 +312,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -325,10 +326,10 @@ footer .theme-by {
     padding: 50px 0;
   }
   footer .footer-links {
-    font-size: 18px;
+    font-size: 14px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
@@ -357,7 +358,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #008AFF;
 }
 
 .post-preview .post-title {
@@ -386,7 +387,7 @@ footer .theme-by {
   text-decoration: none;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
