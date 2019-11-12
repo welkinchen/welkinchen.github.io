@@ -43,7 +43,7 @@ a {
 a:hover,
 a:focus {
   /*color: #0085a1;*/
-  color: #008AFF;
+  color: #000000;
 }
 blockquote {
   color: #808080;
@@ -158,7 +158,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #008AFF;
+  color: #000000;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -358,7 +358,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #008AFF;
+  color: #000000;
 }
 
 .post-preview .post-title {
@@ -575,7 +575,7 @@ footer .theme-by {
   .intro-header .page-heading h1,
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
-    font-size: 49px;
+    font-size: 33px;
   }
   .intro-header .post-heading h1 {
     font-size: 33px;
