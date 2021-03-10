@@ -1,13 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 危空</title>
-    <link>https://chentao.org/tags/</link>
-    <description>Recent content in Tags on 危空</description>
+    <title>Posts on 危空</title>
+    <link>https://chentao.org/posts/</link>
+    <description>Recent content in Posts on 危空</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>©2021 危空</copyright>
+    <lastBuildDate>Wed, 10 Mar 2021 17:33:41 +0800</lastBuildDate>
     
-        <atom:link href="https://chentao.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://chentao.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
